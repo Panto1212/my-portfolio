@@ -12,3 +12,22 @@ h2 {
 body {
   background-color: rgb(84,153,199,0.5);
 }
+.edu {
+  border-style: solid;
+  background-color:rgba(180,180,180,0.5)
+}
+.job {
+  border-style: solid;
+}
+.why {
+  border-style: solid;
+}
+.int {
+  border-style: solid;
+}
+.hob {
+  border-style: solid;
+}
+.skill {
+  border-style: solid;
+}
