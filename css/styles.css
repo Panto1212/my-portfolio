@@ -1,8 +1,14 @@
 h1 {
-  color: powderblue;
+  color: blue;
   text-align: center;
   font-style: italic;
   font-family: serif;
   font-weight: 1000;
 }
-h2
+h2 {
+  text-align: justify;
+  font-style: oblique;
+}
+body {
+  background-color: rgb(84,153,199,0.5);
+}
