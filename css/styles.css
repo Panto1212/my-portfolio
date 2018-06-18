@@ -9,12 +9,8 @@ h2 {
   text-align: justify;
   font-style: oblique;
 }
-body {
-  background-color: rgb(84,153,199,0.5);
-}
 .edu {
   border-style: solid;
-  background-color:rgba(180,180,180,0.5)
 }
 .job {
   border-style: solid;
@@ -30,4 +26,7 @@ body {
 }
 .skill {
   border-style: solid;
+}
+.riz {
+  background-color: powderblue;
 }
